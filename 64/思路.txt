@@ -1,2 +1,2 @@
-¶¯Ì¬¹æ»®ÎÊÌâ
+åŠ¨æ€è§„åˆ’é—®é¢˜
 reference: https://github.com/zhuli19901106/leetcode-2/blob/master/minimum-path-sum_1_AC.cpp

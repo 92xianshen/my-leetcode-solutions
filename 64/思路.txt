@@ -1,2 +1,0 @@
-动态规划问题
-reference: https://github.com/zhuli19901106/leetcode-2/blob/master/minimum-path-sum_1_AC.cpp
